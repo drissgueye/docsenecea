@@ -1,0 +1,10 @@
+{
+  "name": "docs-syndicat",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "retype build"
+  },
+  "devDependencies": {
+    "retypeapp": "latest"
+  }
+}
