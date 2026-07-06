@@ -1,0 +1,33 @@
+﻿# Documentation — Gestion des Requêtes Adhérents de la SENCEA
+
+> Bienvenue dans la documentation officielle de l'application de gestion des requêtes des adhérents du syndicat.
+
+- [Documentation — Gestion des requêtes  de la SENCEA](https://docs-syndicat.vercel.app/index.md): Documentation — Gestion des requêtes  de la SENCEA
+- [Prise en main](https://docs-syndicat.vercel.app/guide/index.md): Cette section vous guide pas à pas pour accéder à l’application et vous familiariser avec son interface.
+- [Rapports & Statistiques](https://docs-syndicat.vercel.app/rapports/index.md): Cette section permet de consulter les indicateurs clés et les statistiques globales de la plateforme.
+- [Communication syndicale](https://docs-syndicat.vercel.app/communication/index.md): Pour accéder à la section Communication syndicale, sélectionnez le menu « Communication » dans le menu latéral gauche. Vous serez alors redirigé vers l’espace dédié à la communication interne de la plateforme.
+- [Delegues](https://docs-syndicat.vercel.app/delegues/index.md): Pour accéder à la liste des délégués, sélectionnez le menu « Délégués » dans le menu latéral.
+- [Documents](https://docs-syndicat.vercel.app/documents/index.md): Pour accéder à la liste des documents disponibles sur la plateforme, sélectionnez le menu « Documents » dans le menu latéral.
+- [Bureaux Executifs](https://docs-syndicat.vercel.app/bureaux/index.md): Cette section permet de consulter et de gérer les différents bureaux exécutifs enregistrés sur la plateforme.
+- [Gestion des requêtes](https://docs-syndicat.vercel.app/requetes/index.md): Cette section décrit le cycle de vie complet d'une requête, depuis sa soumission jusqu'à sa clôture.
+- [Calendrier des activités](https://docs-syndicat.vercel.app/calendrier/index.md): Cette section permet de consulter l'ensemble des activités planifiées dans le cadre du traitement des requêtes.
+- [Listes des poles](https://docs-syndicat.vercel.app/poles/index.md): Cette section permet de consulter l’ensemble des pôles disponibles sur la plateforme ainsi que les membres qui y sont rattachés.
+- [Administration](https://docs-syndicat.vercel.app/admin/index.md): Cette section est destinée aux administrateurs ainsi qu’aux utilisateurs disposant du rôle Admin ou SG du portail.
+- [Référence](https://docs-syndicat.vercel.app/reference/index.md): Code
+
+## Prise en main
+
+- [Interface générale](https://docs-syndicat.vercel.app/guide/interface.md): L'interface se compose de trois zones principales :
+- [Connexion et gestion du compte](https://docs-syndicat.vercel.app/guide/connexion.md): L'application est accessible via votre navigateur à l'adresse :
+
+## Gestion des requêtes
+
+- [Requête interne](https://docs-syndicat.vercel.app/requetes/requeteinterne.md): Depuis le menu latéral : Requêtes internes
+- [Clôturer et évaluer une requête](https://docs-syndicat.vercel.app/requetes/cloturer.md): Lorsqu'une requête passe au statut Résolue, vous recevez une notification vous invitant à confirmer que votre problème a bien été résolu.
+- [Traitement de la requête](https://docs-syndicat.vercel.app/requetes/traitement.md): Depuis le menu latéral : Mes requêtes
+- [Suivre l'avancement d'une requête](https://docs-syndicat.vercel.app/requetes/suivre.md): Depuis le menu latéral : Mes requêtes
+- [Soumettre une requête](https://docs-syndicat.vercel.app/requetes/soumettre.md): Depuis le menu latéral, cliquez sur Soumettre une requête.
+
+## Référence
+
+- [Foire aux questions](https://docs-syndicat.vercel.app/reference/faq.md): Je n'ai pas reçu l'e-mail d'invitation

@@ -1,0 +1,55 @@
+input: .
+output: .retype
+url: https://docs-syndicat.vercel.app
+
+branding:
+  title: SNECEA
+  label: v1.0
+  logo: assets/logo.png
+  logoDark: assets/logo-dark.png
+  colors:
+    label:
+      text: "#FFFFFF"
+      background: "#1D6FA4"
+
+links:
+  - text: Support
+    link: mailto:cractorfamily@live.fr
+  - text: Portail adhérent
+    link: https://app.snecea.com
+
+footer:
+  copyright: "© 2026 Syndicat SENCEA. Tous droits réservés. By creactor Family "
+
+favicon: assets/favicon.ico
+
+meta:
+  title: Documentation — Gestion des Requêtes Adhérents de la SENCEA
+
+nav:
+  - label: Accueil
+    path: /
+  - label: Prise en main
+    path: /guide/
+  - label: Gestion des requêtes
+    path: /requetes/
+  - label: Calendrier
+    path: /calendrier/
+  - label: Poles
+    path: /poles/
+  - label: Bureaux executifs
+    path: /bureaux/
+  - label: Documents
+    path: /documents/
+  - label: Delegues
+    path: /delegues/
+  - label: Communication
+    path: /communication/
+  - label: Rapports
+    path: /rapports/
+  - label: Administration
+    path: /admin/
+  - label: Référence
+    path: /reference/
+
+
